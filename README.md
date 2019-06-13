@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
+<<<<<<< HEAD
 namespace VernamV2
 {
     public partial class Form1 : Form
@@ -154,3 +155,7 @@ namespace VernamV2
         }
     }
 }
+=======
+//this is a test
+//hello this is a test as well
+>>>>>>> 1834446c1517c94918418991dad8011c16ce68e5
